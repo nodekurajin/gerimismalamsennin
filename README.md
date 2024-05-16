@@ -1,4 +1,4 @@
-# Convert Gregorian Date To Chinese Lunar dan Moslime's Hijri
+# Convert Gregorian Date To Chinese Lunar dan Moslem's Hijri
 
 - The code uses the `commander` library for parsing command-line arguments.
 - It defines a program with a version number and expects a Gregorian date as an argument.
